@@ -1,4 +1,4 @@
-f = open('../MyData.txt', 'r')
+f = open('MyData.txt', 'r')
 
 print(f.readline(),end="")
 print(f.readline())
